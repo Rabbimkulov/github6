@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    height: 100vh;
+    background: rgb(128,0,159);
+    background: linear-gradient(0deg, rgba(128,0,159,1) 0%, rgba(27,10,80,1) 100%);
+}
+.div {
+    margin: auto;
+    border: 1px solid;
+    display: flex;
+    padding: 10px;
+    width: 600px;
+    background: rgb(234,251,63);
+    background: radial-gradient(circle, rgba(234,251,63,1) 0%, rgba(252,192,70,1) 100%);
+}
+.div2 {
+    margin: auto;
+}
+.login {
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.input {
+    padding: 5px;
+    width: 300px;
+    border: 0;
+    border-radius: 5px;
+}
+.label {
+    color: white;
+}
+.button {
+    border: 0;
+    border-radius: 10px;
+    width: 100px;
+}
+.a1 {
+    color: white;
+}
+.a2 {
+    color: red;
+}
